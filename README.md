@@ -1,2 +1,3 @@
 # Demo-Repository
-This is my first Demo repository.
+This is my first Demo Git repository.
+Author - Kanan Sangal
